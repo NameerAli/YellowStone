@@ -23,7 +23,7 @@ This project aims to simulate the dynamics of a park environment using a combina
 2. Open the project directory:
 
    ```bash
-   cd park-simulation
+   cd yellowstone
    ```
 
 3. Open the `index.html` file in a web browser.
@@ -47,4 +47,3 @@ This project is licensed under the [MIT License](LICENSE).
 
 - The boids algorithm implementation is inspired by [source]([link](https://vanhunteradams.com/Pico/Animal_Movement/Boids-algorithm.html)https://vanhunteradams.com/Pico/Animal_Movement/Boids-algorithm.html).
 
-```
